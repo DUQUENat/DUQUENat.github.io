@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
+<head>
+        <link rel="stylesheet" href="un.css">
+       </head>
+
 <body>
-<h1 class="title">Mon site de SNT </h1>
+<h1 class="title">Mon site du cours de SNT </h1>
+<h2> Categories</h2>
 </body>
 </html>
